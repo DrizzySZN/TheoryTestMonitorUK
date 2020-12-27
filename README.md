@@ -1,4 +1,4 @@
-# TheoryTestMonitorUK
+# Theory Test Monitor
 
 Booked your Theory Test but want to find an earlier test date and want to be notified for it? Here's a UK Theory Test monitor built in Python using the Requests module.
 
